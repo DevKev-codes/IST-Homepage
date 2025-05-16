@@ -1,0 +1,22 @@
+body{
+    
+}
+
+.carousel-inner{
+    background-color: aqua;
+    height: 250px;
+    background-image: url(images/352238472_181352191255077_7453950595166853642_n.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.btn:hover{
+    color: red;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
